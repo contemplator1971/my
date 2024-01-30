@@ -6,7 +6,7 @@ esphome:
   comment:
   esp8266_restore_from_flash: true
   project:
-    name: "espdomofon.ru"
+    name: "ESP-Domofon"
     version: "1.6.2"
   platformio_options:
     build_flags: -DBEARSSL_SSL_BASIC -DMMU_IRAM_SIZE=0xC000 -DMMU_ICACHE_SIZE=0x4000 -DMMU_IRAM_HEAP
