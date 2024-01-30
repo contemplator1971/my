@@ -27,9 +27,6 @@ wifi:
     password: $ap_password
 
 logger:
-#  baud_rate: 0
-#  logs:
-#    light: INFO
 
 ota:
   password: $ota_password
